@@ -25,7 +25,7 @@ To conduct a comprehensive analysis of Blinkit's:
 - Microsoft Power BI
 - Microsoft Excel
 
-# Data Preparation & Transformation
+### Data Preparation & Transformation
 - Data Cleaning
 - Power Query Editor
 - Data Modeling
