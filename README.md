@@ -2,7 +2,7 @@
 
 ### OVERVIEW
 
-The Blinkit Sales Analysis Dashboard is a business intelligence project developed to analyze sales performance, customer preferences, and outlet operations across different outlet types, sizes, and locations in India from 2011 to 2022.
+This Blinkit Sales Analysis Dashboard is a business intelligence project developed to analyze sales performance, customer preferences, and outlet operations across different outlet types, sizes, and locations in India from 2011 to 2022.
 
 The dashboard provides a comprehensive view of key business metrics such as total sales, average sales, product performance, customer ratings, and outlet distribution. 
 
@@ -22,29 +22,30 @@ To conduct a comprehensive analysis of Blinkit's:
 ### FEATURES
 1. Excel
 #### Dashboard 1 – Product & Customer Analysis
-Total Sales,
-Average Sales,
-Number of Items,
-Average Customer Rating,
-KPIs by Item Fat Content,
-Total Sales by Item Type.
+- Total Sales,
+- Average Sales,
+- Number of Items,
+- Average Customer Rating,
+- KPIs by Item Fat Content,
+- Total Sales by Item Type.
 
 
-<img width="833" height="415" alt="Screenshot 2026-05-15 011955" src="https://github.com/user-attachments/assets/a25fa7d3-3eae-4079-8a6b-514d7f80b674" />
+<img width="885" height="436" alt="Screenshot 2026-05-15 013318" src="https://github.com/user-attachments/assets/a9b384c3-8b3f-4c72-a446-2041a257c0f2" />
 
 
 #### Dashboard 2 – Outlet Performance Analysis
-KPIs by Outlet Type,
-Fat Content by Outlet Type for Total Sales,
-Percentage of Total Sales by Outlet Size,
-Outlet Age by Total Sales,
-Total Sales by Outlet Location.
+- KPIs by Outlet Type,
+- Fat Content by Outlet Type for Total Sales,
+- Percentage of Total Sales by Outlet Size,
+- Outlet Age by Total Sales,
+- Total Sales by Outlet Location.
 
 <img width="887" height="436" alt="Screenshot 2026-05-15 012443" src="https://github.com/user-attachments/assets/ba0250a2-d55e-4895-bb89-5268af874a57" />
 
 
 2. Power BI
-# Dashboard 1
+
+#### Dashboard 1
 
 
 ### INSIGHTS
@@ -73,23 +74,21 @@ Total Sales by Outlet Location.
 
 ### TOOLS AND TECHNOLOGIES USED
 
-# Data Visualization Tool
-Microsoft Power BI
-Microsoft Excel
+#### Data Visualization Tool
+- Microsoft Power BI
+- Microsoft Excel
 
 # Data Preparation & Transformation
-Power Query Editor
-Data Modeling
-Power BI Data Model
-Data Analysis Language
-DAX (Data Analysis Expressions)
-Visualization Techniques
-KPI Cards
-Bar Charts
-Line Charts
-Donut Charts
-Comparative Analysis Visuals
-Interactive Dashboard Layouts
+- Power Query Editor
+- Data Modeling
+- Power BI Data Model
+- DAX (Data Analysis Expressions)
+- Visualization Techniques
+- Cards
+- Bar Charts
+- Line Charts
+- Donut Charts
+- Interactive Dashboard Layouts using HYPERLINK to link the 2 dashboard to one another
 
 ### INFERENCES
 - Product category significantly influences total sales performance.
