@@ -10,31 +10,38 @@ The goal of the project is to transform raw sales data into actionable insights 
 
 
 ### OBJECTIVE
-
-To analyze overall sales performance across different years and outlet categories.
-To identify the best-performing product categories and outlet types.
-To evaluate customer preferences based on fat content and product ratings.
-To examine the impact of outlet size and location on total sales.
-To monitor key performance indicators (KPIs) for business growth and decision-making.
-To provide an interactive dashboard for easy visualization and interpretation of business data.
+To conduct a comprehensive analysis of Blinkit's:
+- sales performance,
+- customer satisfaction, and
+- inventory distribution to
+- identify key insights and opportunities
+- for optimization using various KPIs and visualizations in Power BI and Excel
+- To provide an interactive dashboard for easy visualization and interpretation of business data.
 
 
 ### FEATURES
 1. Excel
-# Dashboard 1 – Outlet Performance Analysis
-Fat Content by Outlet Type for Total Sales
-Percentage of Total Sales by Outlet Size
-Outlet Age by Total Sales
-Total Sales by Outlet Location
-KPIs by Outlet Type
+#### Dashboard 1 – Product & Customer Analysis
+Total Sales,
+Average Sales,
+Number of Items,
+Average Customer Rating,
+KPIs by Item Fat Content,
+Total Sales by Item Type.
 
-# Dashboard 2 – Product & Customer Analysis
-Total Sales
-Average Sales
-Number of Items
-Average Customer Rating
-KPIs by Item Fat Content
-Total Sales by Item Type
+
+<img width="833" height="415" alt="Screenshot 2026-05-15 011955" src="https://github.com/user-attachments/assets/a25fa7d3-3eae-4079-8a6b-514d7f80b674" />
+
+
+#### Dashboard 2 – Outlet Performance Analysis
+KPIs by Outlet Type,
+Fat Content by Outlet Type for Total Sales,
+Percentage of Total Sales by Outlet Size,
+Outlet Age by Total Sales,
+Total Sales by Outlet Location.
+
+<img width="887" height="436" alt="Screenshot 2026-05-15 012443" src="https://github.com/user-attachments/assets/ba0250a2-d55e-4895-bb89-5268af874a57" />
+
 
 2. Power BI
 # Dashboard 1
