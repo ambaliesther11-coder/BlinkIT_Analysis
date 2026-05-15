@@ -19,6 +19,26 @@ To conduct a comprehensive analysis of Blinkit's:
 - To provide an interactive dashboard for easy visualization and interpretation of business data.
 
 
+### TOOLS AND TECHNOLOGIES USED
+
+#### Data Visualization Tool
+- Microsoft Power BI
+- Microsoft Excel
+
+# Data Preparation & Transformation
+- Data Cleaning
+- Power Query Editor
+- Data Modeling
+- Power BI Data Model
+- DAX (Data Analysis Expressions)
+- Visualization Techniques
+- Cards
+- Bar Charts
+- Column Chatrs
+- Line Charts
+- Donut Charts
+- Interactive Dashboard Layouts using HYPERLINK to link the 2 dashboard to one another
+
 ### FEATURES
 1. Excel
 #### Dashboard 1 – Product & Customer Analysis
@@ -43,9 +63,16 @@ To conduct a comprehensive analysis of Blinkit's:
 <img width="887" height="436" alt="Screenshot 2026-05-15 012443" src="https://github.com/user-attachments/assets/ba0250a2-d55e-4895-bb89-5268af874a57" />
 
 
+
 2. Power BI
 
-#### Dashboard 1
+#### Dashboard 
+
+<img width="915" height="501" alt="image" src="https://github.com/user-attachments/assets/dc64358e-cbca-4887-a081-6d919973f816" />
+
+
+<img width="916" height="502" alt="image" src="https://github.com/user-attachments/assets/aade6ae1-3c01-4b6b-824e-cdf477a8e024" />
+
 
 
 ### INSIGHTS
@@ -71,24 +98,6 @@ To conduct a comprehensive analysis of Blinkit's:
 - Customer ratings remained relatively stable across product categories.
 - Both low-fat and regular-fat products maintained similar customer satisfaction levels.
 
-
-### TOOLS AND TECHNOLOGIES USED
-
-#### Data Visualization Tool
-- Microsoft Power BI
-- Microsoft Excel
-
-# Data Preparation & Transformation
-- Power Query Editor
-- Data Modeling
-- Power BI Data Model
-- DAX (Data Analysis Expressions)
-- Visualization Techniques
-- Cards
-- Bar Charts
-- Line Charts
-- Donut Charts
-- Interactive Dashboard Layouts using HYPERLINK to link the 2 dashboard to one another
 
 ### INFERENCES
 - Product category significantly influences total sales performance.
